@@ -1,0 +1,9 @@
+{
+	"name": "udacityfactoryworkspace",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8adab4b4-1b9d-43e3-ab2d-43ad4ebf7345",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
